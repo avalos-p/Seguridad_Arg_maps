@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,14,Córdoba,1,Homicidios dolosos,135,148.0
+2014,14,Córdoba,2,Homicidios dolosos en grado de tentativa,20,20.0
+2014,14,Córdoba,3,Muertes en Accidentes Viales,379,450.0
+2014,14,Córdoba,10,Violaciones,365,375.0
+2014,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),63763,
+2014,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,88,
+2014,14,Córdoba,19,Hurtos,27272,
+2014,14,Córdoba,31,Suicidios (consumados),448,
+2015,14,Córdoba,1,Homicidios dolosos,128,136.0
+2015,14,Córdoba,2,Homicidios dolosos en grado de tentativa,22,27.0
+2015,14,Córdoba,3,Muertes en Accidentes Viales,321,345.0
+2015,14,Córdoba,10,Violaciones,257,261.0
+2015,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),63826,
+2015,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,80,
+2015,14,Córdoba,19,Hurtos,24762,
+2015,14,Córdoba,31,Suicidios (consumados),278,
+2016,14,Córdoba,1,Homicidios dolosos,126,126.0
+2016,14,Córdoba,2,Homicidios dolosos en grado de tentativa,20,21.0
+2016,14,Córdoba,3,Muertes en Accidentes Viales,340,381.0
+2016,14,Córdoba,10,Violaciones,171,174.0
+2016,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),63843,
+2016,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,944,
+2016,14,Córdoba,19,Hurtos,28046,
+2016,14,Córdoba,31,Suicidios (consumados),242,
+2017,14,Córdoba,1,Homicidios dolosos,113,115.0
+2017,14,Córdoba,2,Homicidios dolosos en grado de tentativa,17,18.0
+2017,14,Córdoba,3,Muertes en Accidentes Viales,347,383.0
+2017,14,Córdoba,10,Violaciones,192,193.0
+2017,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),60814,
+2017,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,383,
+2017,14,Córdoba,19,Hurtos,29530,
+2017,14,Córdoba,31,Suicidios (consumados),231,231.0
+2018,14,Córdoba,1,Homicidios dolosos,102,108.0
+2018,14,Córdoba,2,Homicidios dolosos en grado de tentativa,9,9.0
+2018,14,Córdoba,3,Muertes en Accidentes Viales,414,453.0
+2018,14,Córdoba,10,Violaciones,201,206.0
+2018,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),60198,
+2018,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,37,
+2018,14,Córdoba,19,Hurtos,34277,
+2018,14,Córdoba,31,Suicidios (consumados),255,255.0
+2019,14,Córdoba,1,Homicidios dolosos,119,122.0
+2019,14,Córdoba,2,Homicidios dolosos en grado de tentativa,5,6.0
+2019,14,Córdoba,3,Muertes en Accidentes Viales,324,366.0
+2019,14,Córdoba,10,Violaciones,227,230.0
+2019,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),63746,
+2019,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,47,
+2019,14,Córdoba,19,Hurtos,39567,
+2019,14,Córdoba,31,Suicidios (consumados),263,263.0
+2020,14,Córdoba,1,Homicidios dolosos,120,121.0
+2020,14,Córdoba,2,Homicidios dolosos en grado de tentativa,3,3.0
+2020,14,Córdoba,3,Muertes en Accidentes Viales,295,329.0
+2020,14,Córdoba,10,Violaciones,210,217.0
+2020,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),41367,
+2020,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,219,
+2020,14,Córdoba,19,Hurtos,26998,
+2020,14,Córdoba,31,Suicidios (consumados),197,197.0
+2021,14,Córdoba,1,Homicidios dolosos,87,88.0
+2021,14,Córdoba,2,Homicidios dolosos en grado de tentativa,3,3.0
+2021,14,Córdoba,3,Muertes en Accidentes Viales,347,381.0
+2021,14,Córdoba,10,Violaciones,218,224.0
+2021,14,Córdoba,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),45588,
+2021,14,Córdoba,17,Robos agravados por el resultado de lesiones y/o muertes ,5,
+2021,14,Córdoba,19,Hurtos,31696,
+2021,14,Córdoba,31,Suicidios (consumados),276,276.0

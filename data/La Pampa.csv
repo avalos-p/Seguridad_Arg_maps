@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,42,La Pampa,1,Homicidios dolosos,10,10.0
+2014,42,La Pampa,2,Homicidios dolosos en grado de tentativa,0,0.0
+2014,42,La Pampa,3,Muertes en Accidentes Viales,53,59.0
+2014,42,La Pampa,10,Violaciones,37,37.0
+2014,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2933,
+2014,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,42,La Pampa,19,Hurtos,4018,
+2014,42,La Pampa,31,Suicidios (consumados),23,
+2015,42,La Pampa,1,Homicidios dolosos,9,10.0
+2015,42,La Pampa,2,Homicidios dolosos en grado de tentativa,0,0.0
+2015,42,La Pampa,3,Muertes en Accidentes Viales,60,76.0
+2015,42,La Pampa,10,Violaciones,43,44.0
+2015,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2389,
+2015,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,9,
+2015,42,La Pampa,19,Hurtos,3321,
+2015,42,La Pampa,31,Suicidios (consumados),25,
+2016,42,La Pampa,1,Homicidios dolosos,9,9.0
+2016,42,La Pampa,2,Homicidios dolosos en grado de tentativa,6,9.0
+2016,42,La Pampa,3,Muertes en Accidentes Viales,51,60.0
+2016,42,La Pampa,10,Violaciones,21,23.0
+2016,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1735,
+2016,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,42,La Pampa,19,Hurtos,3013,
+2016,42,La Pampa,31,Suicidios (consumados),106,
+2017,42,La Pampa,1,Homicidios dolosos,5,5.0
+2017,42,La Pampa,2,Homicidios dolosos en grado de tentativa,0,0.0
+2017,42,La Pampa,3,Muertes en Accidentes Viales,43,63.0
+2017,42,La Pampa,10,Violaciones,32,32.0
+2017,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1534,
+2017,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2017,42,La Pampa,19,Hurtos,2790,
+2017,42,La Pampa,31,Suicidios (consumados),31,31.0
+2018,42,La Pampa,1,Homicidios dolosos,12,12.0
+2018,42,La Pampa,2,Homicidios dolosos en grado de tentativa,3,3.0
+2018,42,La Pampa,3,Muertes en Accidentes Viales,52,69.0
+2018,42,La Pampa,10,Violaciones,48,48.0
+2018,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1451,
+2018,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2018,42,La Pampa,19,Hurtos,2115,
+2018,42,La Pampa,31,Suicidios (consumados),40,40.0
+2019,42,La Pampa,1,Homicidios dolosos,7,7.0
+2019,42,La Pampa,2,Homicidios dolosos en grado de tentativa,0,0.0
+2019,42,La Pampa,3,Muertes en Accidentes Viales,22,23.0
+2019,42,La Pampa,10,Violaciones,10,10.0
+2019,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),838,
+2019,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2019,42,La Pampa,19,Hurtos,1526,
+2019,42,La Pampa,31,Suicidios (consumados),34,34.0
+2020,42,La Pampa,1,Homicidios dolosos,4,4.0
+2020,42,La Pampa,2,Homicidios dolosos en grado de tentativa,0,0.0
+2020,42,La Pampa,3,Muertes en Accidentes Viales,23,25.0
+2020,42,La Pampa,10,Violaciones,8,8.0
+2020,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),411,
+2020,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2020,42,La Pampa,19,Hurtos,812,
+2020,42,La Pampa,31,Suicidios (consumados),43,43.0
+2021,42,La Pampa,1,Homicidios dolosos,5,5.0
+2021,42,La Pampa,2,Homicidios dolosos en grado de tentativa,1,1.0
+2021,42,La Pampa,3,Muertes en Accidentes Viales,19,31.0
+2021,42,La Pampa,10,Violaciones,17,17.0
+2021,42,La Pampa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),582,
+2021,42,La Pampa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2021,42,La Pampa,19,Hurtos,1338,
+2021,42,La Pampa,31,Suicidios (consumados),35,35.0

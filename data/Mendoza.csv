@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,50,Mendoza,1,Homicidios dolosos,164,164.0
+2014,50,Mendoza,2,Homicidios dolosos en grado de tentativa,3,3.0
+2014,50,Mendoza,3,Muertes en Accidentes Viales,175,175.0
+2014,50,Mendoza,10,Violaciones,274,275.0
+2014,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),58255,
+2014,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,4296,
+2014,50,Mendoza,19,Hurtos,40779,
+2014,50,Mendoza,31,Suicidios (consumados),150,
+2015,50,Mendoza,1,Homicidios dolosos,141,141.0
+2015,50,Mendoza,2,Homicidios dolosos en grado de tentativa,8,8.0
+2015,50,Mendoza,3,Muertes en Accidentes Viales,168,177.0
+2015,50,Mendoza,10,Violaciones,353,357.0
+2015,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),60199,
+2015,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,4040,
+2015,50,Mendoza,19,Hurtos,43710,
+2015,50,Mendoza,31,Suicidios (consumados),149,
+2016,50,Mendoza,1,Homicidios dolosos,150,150.0
+2016,50,Mendoza,2,Homicidios dolosos en grado de tentativa,2,3.0
+2016,50,Mendoza,3,Muertes en Accidentes Viales,145,160.0
+2016,50,Mendoza,10,Violaciones,217,234.0
+2016,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),43203,
+2016,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,3663,
+2016,50,Mendoza,19,Hurtos,31960,
+2016,50,Mendoza,31,Suicidios (consumados),156,
+2017,50,Mendoza,1,Homicidios dolosos,97,99.0
+2017,50,Mendoza,2,Homicidios dolosos en grado de tentativa,0,0.0
+2017,50,Mendoza,3,Muertes en Accidentes Viales,162,214.0
+2017,50,Mendoza,10,Violaciones,309,348.0
+2017,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),25309,
+2017,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,2849,
+2017,50,Mendoza,19,Hurtos,18329,
+2017,50,Mendoza,31,Suicidios (consumados),194,194.0
+2018,50,Mendoza,1,Homicidios dolosos,97,106.0
+2018,50,Mendoza,2,Homicidios dolosos en grado de tentativa,0,0.0
+2018,50,Mendoza,3,Muertes en Accidentes Viales,157,168.0
+2018,50,Mendoza,10,Violaciones,320,367.0
+2018,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),24734,
+2018,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,1964,
+2018,50,Mendoza,19,Hurtos,16782,
+2018,50,Mendoza,31,Suicidios (consumados),198,198.0
+2019,50,Mendoza,1,Homicidios dolosos,92,97.0
+2019,50,Mendoza,2,Homicidios dolosos en grado de tentativa,0,0.0
+2019,50,Mendoza,3,Muertes en Accidentes Viales,120,137.0
+2019,50,Mendoza,10,Violaciones,362,362.0
+2019,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),28725,
+2019,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,113,
+2019,50,Mendoza,19,Hurtos,17384,
+2019,50,Mendoza,31,Suicidios (consumados),197,197.0
+2020,50,Mendoza,1,Homicidios dolosos,89,91.0
+2020,50,Mendoza,2,Homicidios dolosos en grado de tentativa,0,0.0
+2020,50,Mendoza,3,Muertes en Accidentes Viales,87,101.0
+2020,50,Mendoza,10,Violaciones,325,325.0
+2020,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),16235,
+2020,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,24,
+2020,50,Mendoza,19,Hurtos,9497,
+2020,50,Mendoza,31,Suicidios (consumados),194,194.0
+2021,50,Mendoza,1,Homicidios dolosos,81,85.0
+2021,50,Mendoza,2,Homicidios dolosos en grado de tentativa,0,0.0
+2021,50,Mendoza,3,Muertes en Accidentes Viales,104,111.0
+2021,50,Mendoza,10,Violaciones,322,341.0
+2021,50,Mendoza,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),20784,
+2021,50,Mendoza,17,Robos agravados por el resultado de lesiones y/o muertes ,26,
+2021,50,Mendoza,19,Hurtos,12863,
+2021,50,Mendoza,31,Suicidios (consumados),197,197.0

@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,62,Río Negro,1,Homicidios dolosos,57,60.0
+2014,62,Río Negro,2,Homicidios dolosos en grado de tentativa,47,47.0
+2014,62,Río Negro,3,Muertes en Accidentes Viales,73,73.0
+2014,62,Río Negro,10,Violaciones,98,99.0
+2014,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),10857,
+2014,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,62,Río Negro,19,Hurtos,6698,
+2014,62,Río Negro,31,Suicidios (consumados),59,
+2015,62,Río Negro,1,Homicidios dolosos,52,52.0
+2015,62,Río Negro,2,Homicidios dolosos en grado de tentativa,31,31.0
+2015,62,Río Negro,3,Muertes en Accidentes Viales,83,83.0
+2015,62,Río Negro,10,Violaciones,58,58.0
+2015,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),8027,
+2015,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,62,Río Negro,19,Hurtos,6141,
+2015,62,Río Negro,31,Suicidios (consumados),46,
+2016,62,Río Negro,1,Homicidios dolosos,35,35.0
+2016,62,Río Negro,2,Homicidios dolosos en grado de tentativa,42,42.0
+2016,62,Río Negro,3,Muertes en Accidentes Viales,72,80.0
+2016,62,Río Negro,10,Violaciones,63,64.0
+2016,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),8338,
+2016,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,62,Río Negro,19,Hurtos,5931,
+2016,62,Río Negro,31,Suicidios (consumados),41,
+2017,62,Río Negro,1,Homicidios dolosos,26,26.0
+2017,62,Río Negro,2,Homicidios dolosos en grado de tentativa,29,33.0
+2017,62,Río Negro,3,Muertes en Accidentes Viales,82,82.0
+2017,62,Río Negro,10,Violaciones,52,56.0
+2017,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7643,
+2017,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2017,62,Río Negro,19,Hurtos,5415,
+2017,62,Río Negro,31,Suicidios (consumados),47,47.0
+2018,62,Río Negro,1,Homicidios dolosos,21,22.0
+2018,62,Río Negro,2,Homicidios dolosos en grado de tentativa,18,19.0
+2018,62,Río Negro,3,Muertes en Accidentes Viales,78,90.0
+2018,62,Río Negro,10,Violaciones,69,72.0
+2018,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7732,
+2018,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2018,62,Río Negro,19,Hurtos,5766,
+2018,62,Río Negro,31,Suicidios (consumados),43,43.0
+2019,62,Río Negro,1,Homicidios dolosos,29,31.0
+2019,62,Río Negro,2,Homicidios dolosos en grado de tentativa,21,21.0
+2019,62,Río Negro,3,Muertes en Accidentes Viales,65,80.0
+2019,62,Río Negro,10,Violaciones,83,87.0
+2019,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7863,
+2019,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2019,62,Río Negro,19,Hurtos,5845,
+2019,62,Río Negro,31,Suicidios (consumados),60,60.0
+2020,62,Río Negro,1,Homicidios dolosos,37,39.0
+2020,62,Río Negro,2,Homicidios dolosos en grado de tentativa,19,21.0
+2020,62,Río Negro,3,Muertes en Accidentes Viales,36,41.0
+2020,62,Río Negro,10,Violaciones,101,106.0
+2020,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5263,
+2020,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2020,62,Río Negro,19,Hurtos,4531,
+2020,62,Río Negro,31,Suicidios (consumados),35,35.0
+2021,62,Río Negro,1,Homicidios dolosos,26,26.0
+2021,62,Río Negro,2,Homicidios dolosos en grado de tentativa,20,23.0
+2021,62,Río Negro,3,Muertes en Accidentes Viales,57,65.0
+2021,62,Río Negro,10,Violaciones,125,132.0
+2021,62,Río Negro,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6305,
+2021,62,Río Negro,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2021,62,Río Negro,19,Hurtos,5267,
+2021,62,Río Negro,31,Suicidios (consumados),56,56.0

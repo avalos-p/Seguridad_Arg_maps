@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,10,Catamarca,1,Homicidios dolosos,7,7.0
+2014,10,Catamarca,2,Homicidios dolosos en grado de tentativa,2,2.0
+2014,10,Catamarca,3,Muertes en Accidentes Viales,39,45.0
+2014,10,Catamarca,10,Violaciones,12,12.0
+2014,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6479,
+2014,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,10,Catamarca,19,Hurtos,4288,
+2014,10,Catamarca,31,Suicidios (consumados),39,
+2015,10,Catamarca,1,Homicidios dolosos,7,7.0
+2015,10,Catamarca,2,Homicidios dolosos en grado de tentativa,2,2.0
+2015,10,Catamarca,3,Muertes en Accidentes Viales,38,41.0
+2015,10,Catamarca,10,Violaciones,14,14.0
+2015,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5629,
+2015,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2015,10,Catamarca,19,Hurtos,4175,
+2015,10,Catamarca,31,Suicidios (consumados),42,
+2016,10,Catamarca,1,Homicidios dolosos,9,9.0
+2016,10,Catamarca,2,Homicidios dolosos en grado de tentativa,5,5.0
+2016,10,Catamarca,3,Muertes en Accidentes Viales,44,53.0
+2016,10,Catamarca,10,Violaciones,14,14.0
+2016,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6695,
+2016,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,10,Catamarca,19,Hurtos,4262,
+2016,10,Catamarca,31,Suicidios (consumados),43,
+2017,10,Catamarca,1,Homicidios dolosos,15,16.0
+2017,10,Catamarca,2,Homicidios dolosos en grado de tentativa,3,4.0
+2017,10,Catamarca,3,Muertes en Accidentes Viales,97,111.0
+2017,10,Catamarca,10,Violaciones,21,21.0
+2017,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5586,
+2017,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2017,10,Catamarca,19,Hurtos,3575,
+2017,10,Catamarca,31,Suicidios (consumados),38,38.0
+2018,10,Catamarca,1,Homicidios dolosos,6,6.0
+2018,10,Catamarca,2,Homicidios dolosos en grado de tentativa,0,0.0
+2018,10,Catamarca,3,Muertes en Accidentes Viales,87,96.0
+2018,10,Catamarca,10,Violaciones,18,18.0
+2018,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5487,
+2018,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2018,10,Catamarca,19,Hurtos,3330,
+2018,10,Catamarca,31,Suicidios (consumados),44,44.0
+2019,10,Catamarca,1,Homicidios dolosos,14,14.0
+2019,10,Catamarca,2,Homicidios dolosos en grado de tentativa,1,1.0
+2019,10,Catamarca,3,Muertes en Accidentes Viales,66,70.0
+2019,10,Catamarca,10,Violaciones,12,12.0
+2019,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4850,
+2019,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2019,10,Catamarca,19,Hurtos,3320,
+2019,10,Catamarca,31,Suicidios (consumados),32,32.0
+2020,10,Catamarca,1,Homicidios dolosos,7,7.0
+2020,10,Catamarca,2,Homicidios dolosos en grado de tentativa,0,0.0
+2020,10,Catamarca,3,Muertes en Accidentes Viales,45,50.0
+2020,10,Catamarca,10,Violaciones,10,10.0
+2020,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3221,
+2020,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2020,10,Catamarca,19,Hurtos,2475,
+2020,10,Catamarca,31,Suicidios (consumados),48,48.0
+2021,10,Catamarca,1,Homicidios dolosos,6,6.0
+2021,10,Catamarca,2,Homicidios dolosos en grado de tentativa,1,1.0
+2021,10,Catamarca,3,Muertes en Accidentes Viales,50,55.0
+2021,10,Catamarca,10,Violaciones,12,12.0
+2021,10,Catamarca,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4042,
+2021,10,Catamarca,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2021,10,Catamarca,19,Hurtos,2925,
+2021,10,Catamarca,31,Suicidios (consumados),43,43.0

@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,70,San Juan,1,Homicidios dolosos,17,17.0
+2014,70,San Juan,2,Homicidios dolosos en grado de tentativa,45,45.0
+2014,70,San Juan,3,Muertes en Accidentes Viales,93,108.0
+2014,70,San Juan,10,Violaciones,23,23.0
+2014,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6662,
+2014,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,608,
+2014,70,San Juan,19,Hurtos,7554,
+2014,70,San Juan,31,Suicidios (consumados),112,
+2015,70,San Juan,1,Homicidios dolosos,23,23.0
+2015,70,San Juan,2,Homicidios dolosos en grado de tentativa,15,16.0
+2015,70,San Juan,3,Muertes en Accidentes Viales,91,104.0
+2015,70,San Juan,10,Violaciones,41,41.0
+2015,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6013,
+2015,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,544,
+2015,70,San Juan,19,Hurtos,6988,
+2015,70,San Juan,31,Suicidios (consumados),30,
+2016,70,San Juan,1,Homicidios dolosos,20,20.0
+2016,70,San Juan,2,Homicidios dolosos en grado de tentativa,20,21.0
+2016,70,San Juan,3,Muertes en Accidentes Viales,78,86.0
+2016,70,San Juan,10,Violaciones,38,38.0
+2016,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6951,
+2016,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,423,
+2016,70,San Juan,19,Hurtos,7802,
+2016,70,San Juan,31,Suicidios (consumados),37,
+2017,70,San Juan,1,Homicidios dolosos,15,15.0
+2017,70,San Juan,2,Homicidios dolosos en grado de tentativa,14,14.0
+2017,70,San Juan,3,Muertes en Accidentes Viales,92,95.0
+2017,70,San Juan,10,Violaciones,30,34.0
+2017,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6663,
+2017,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,591,
+2017,70,San Juan,19,Hurtos,7723,
+2017,70,San Juan,31,Suicidios (consumados),56,56.0
+2018,70,San Juan,1,Homicidios dolosos,16,16.0
+2018,70,San Juan,2,Homicidios dolosos en grado de tentativa,8,8.0
+2018,70,San Juan,3,Muertes en Accidentes Viales,83,96.0
+2018,70,San Juan,10,Violaciones,13,13.0
+2018,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6970,
+2018,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,605,
+2018,70,San Juan,19,Hurtos,7955,
+2018,70,San Juan,31,Suicidios (consumados),51,51.0
+2019,70,San Juan,1,Homicidios dolosos,14,14.0
+2019,70,San Juan,2,Homicidios dolosos en grado de tentativa,6,6.0
+2019,70,San Juan,3,Muertes en Accidentes Viales,93,103.0
+2019,70,San Juan,10,Violaciones,17,19.0
+2019,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7525,
+2019,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,197,
+2019,70,San Juan,19,Hurtos,7890,
+2019,70,San Juan,31,Suicidios (consumados),65,65.0
+2020,70,San Juan,1,Homicidios dolosos,16,16.0
+2020,70,San Juan,2,Homicidios dolosos en grado de tentativa,6,6.0
+2020,70,San Juan,3,Muertes en Accidentes Viales,69,71.0
+2020,70,San Juan,10,Violaciones,38,38.0
+2020,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6528,
+2020,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,48,
+2020,70,San Juan,19,Hurtos,6349,
+2020,70,San Juan,31,Suicidios (consumados),54,54.0
+2021,70,San Juan,1,Homicidios dolosos,12,12.0
+2021,70,San Juan,2,Homicidios dolosos en grado de tentativa,9,9.0
+2021,70,San Juan,3,Muertes en Accidentes Viales,69,79.0
+2021,70,San Juan,10,Violaciones,181,189.0
+2021,70,San Juan,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6996,
+2021,70,San Juan,17,Robos agravados por el resultado de lesiones y/o muertes ,33,
+2021,70,San Juan,19,Hurtos,6639,
+2021,70,San Juan,31,Suicidios (consumados),72,72.0

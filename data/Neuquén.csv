@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,58,Neuquén,1,Homicidios dolosos,50,51.0
+2014,58,Neuquén,2,Homicidios dolosos en grado de tentativa,22,22.0
+2014,58,Neuquén,3,Muertes en Accidentes Viales,7,7.0
+2014,58,Neuquén,10,Violaciones,58,66.0
+2014,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13305,
+2014,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,612,
+2014,58,Neuquén,19,Hurtos,6895,
+2014,58,Neuquén,31,Suicidios (consumados),127,
+2015,58,Neuquén,1,Homicidios dolosos,43,43.0
+2015,58,Neuquén,2,Homicidios dolosos en grado de tentativa,6,6.0
+2015,58,Neuquén,3,Muertes en Accidentes Viales,93,99.0
+2015,58,Neuquén,10,Violaciones,49,49.0
+2015,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13227,
+2015,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,331,
+2015,58,Neuquén,19,Hurtos,6483,
+2015,58,Neuquén,31,Suicidios (consumados),60,
+2016,58,Neuquén,1,Homicidios dolosos,46,47.0
+2016,58,Neuquén,2,Homicidios dolosos en grado de tentativa,3,3.0
+2016,58,Neuquén,3,Muertes en Accidentes Viales,85,93.0
+2016,58,Neuquén,10,Violaciones,42,42.0
+2016,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13593,
+2016,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,233,
+2016,58,Neuquén,19,Hurtos,6133,
+2016,58,Neuquén,31,Suicidios (consumados),65,
+2017,58,Neuquén,1,Homicidios dolosos,32,33.0
+2017,58,Neuquén,2,Homicidios dolosos en grado de tentativa,3,3.0
+2017,58,Neuquén,3,Muertes en Accidentes Viales,78,85.0
+2017,58,Neuquén,10,Violaciones,26,26.0
+2017,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13046,
+2017,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,151,
+2017,58,Neuquén,19,Hurtos,5849,
+2017,58,Neuquén,31,Suicidios (consumados),67,67.0
+2018,58,Neuquén,1,Homicidios dolosos,30,31.0
+2018,58,Neuquén,2,Homicidios dolosos en grado de tentativa,4,5.0
+2018,58,Neuquén,3,Muertes en Accidentes Viales,68,80.0
+2018,58,Neuquén,10,Violaciones,50,52.0
+2018,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),12253,
+2018,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,166,
+2018,58,Neuquén,19,Hurtos,6560,
+2018,58,Neuquén,31,Suicidios (consumados),70,70.0
+2019,58,Neuquén,1,Homicidios dolosos,31,31.0
+2019,58,Neuquén,2,Homicidios dolosos en grado de tentativa,2,2.0
+2019,58,Neuquén,3,Muertes en Accidentes Viales,65,83.0
+2019,58,Neuquén,10,Violaciones,34,34.0
+2019,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13717,
+2019,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,214,
+2019,58,Neuquén,19,Hurtos,7258,
+2019,58,Neuquén,31,Suicidios (consumados),63,63.0
+2020,58,Neuquén,1,Homicidios dolosos,42,42.0
+2020,58,Neuquén,2,Homicidios dolosos en grado de tentativa,5,5.0
+2020,58,Neuquén,3,Muertes en Accidentes Viales,44,50.0
+2020,58,Neuquén,10,Violaciones,35,35.0
+2020,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),10309,
+2020,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,170,
+2020,58,Neuquén,19,Hurtos,5865,
+2020,58,Neuquén,31,Suicidios (consumados),52,52.0
+2021,58,Neuquén,1,Homicidios dolosos,42,44.0
+2021,58,Neuquén,2,Homicidios dolosos en grado de tentativa,3,4.0
+2021,58,Neuquén,3,Muertes en Accidentes Viales,55,63.0
+2021,58,Neuquén,10,Violaciones,53,53.0
+2021,58,Neuquén,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),12003,
+2021,58,Neuquén,17,Robos agravados por el resultado de lesiones y/o muertes ,133,
+2021,58,Neuquén,19,Hurtos,6408,
+2021,58,Neuquén,31,Suicidios (consumados),65,65.0

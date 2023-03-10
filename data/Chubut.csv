@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,26,Chubut,1,Homicidios dolosos,69,74.0
+2014,26,Chubut,2,Homicidios dolosos en grado de tentativa,26,27.0
+2014,26,Chubut,3,Muertes en Accidentes Viales,28,30.0
+2014,26,Chubut,10,Violaciones,80,80.0
+2014,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5665,
+2014,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,20,
+2014,26,Chubut,19,Hurtos,3107,
+2014,26,Chubut,31,Suicidios (consumados),48,
+2015,26,Chubut,1,Homicidios dolosos,36,38.0
+2015,26,Chubut,2,Homicidios dolosos en grado de tentativa,32,32.0
+2015,26,Chubut,3,Muertes en Accidentes Viales,42,48.0
+2015,26,Chubut,10,Violaciones,60,61.0
+2015,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4959,
+2015,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,50,
+2015,26,Chubut,19,Hurtos,2718,
+2015,26,Chubut,31,Suicidios (consumados),54,
+2016,26,Chubut,1,Homicidios dolosos,56,58.0
+2016,26,Chubut,2,Homicidios dolosos en grado de tentativa,38,46.0
+2016,26,Chubut,3,Muertes en Accidentes Viales,32,37.0
+2016,26,Chubut,10,Violaciones,90,103.0
+2016,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4777,
+2016,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,18,
+2016,26,Chubut,19,Hurtos,2929,
+2016,26,Chubut,31,Suicidios (consumados),36,
+2017,26,Chubut,1,Homicidios dolosos,43,43.0
+2017,26,Chubut,2,Homicidios dolosos en grado de tentativa,40,42.0
+2017,26,Chubut,3,Muertes en Accidentes Viales,47,56.0
+2017,26,Chubut,10,Violaciones,119,121.0
+2017,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4324,
+2017,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,100,
+2017,26,Chubut,19,Hurtos,2889,
+2017,26,Chubut,31,Suicidios (consumados),53,53.0
+2018,26,Chubut,1,Homicidios dolosos,46,46.0
+2018,26,Chubut,2,Homicidios dolosos en grado de tentativa,40,42.0
+2018,26,Chubut,3,Muertes en Accidentes Viales,49,54.0
+2018,26,Chubut,10,Violaciones,160,163.0
+2018,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4046,
+2018,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,307,
+2018,26,Chubut,19,Hurtos,3321,
+2018,26,Chubut,31,Suicidios (consumados),69,69.0
+2019,26,Chubut,1,Homicidios dolosos,50,50.0
+2019,26,Chubut,2,Homicidios dolosos en grado de tentativa,30,32.0
+2019,26,Chubut,3,Muertes en Accidentes Viales,39,46.0
+2019,26,Chubut,10,Violaciones,229,238.0
+2019,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4465,
+2019,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,2,
+2019,26,Chubut,19,Hurtos,3569,
+2019,26,Chubut,31,Suicidios (consumados),56,56.0
+2020,26,Chubut,1,Homicidios dolosos,32,32.0
+2020,26,Chubut,2,Homicidios dolosos en grado de tentativa,28,33.0
+2020,26,Chubut,3,Muertes en Accidentes Viales,16,17.0
+2020,26,Chubut,10,Violaciones,212,219.0
+2020,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3150,
+2020,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,118,
+2020,26,Chubut,19,Hurtos,2910,
+2020,26,Chubut,31,Suicidios (consumados),71,71.0
+2021,26,Chubut,1,Homicidios dolosos,29,29.0
+2021,26,Chubut,2,Homicidios dolosos en grado de tentativa,26,27.0
+2021,26,Chubut,3,Muertes en Accidentes Viales,32,32.0
+2021,26,Chubut,10,Violaciones,224,238.0
+2021,26,Chubut,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3480,
+2021,26,Chubut,17,Robos agravados por el resultado de lesiones y/o muertes ,184,
+2021,26,Chubut,19,Hurtos,3848,
+2021,26,Chubut,31,Suicidios (consumados),63,63.0

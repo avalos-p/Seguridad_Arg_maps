@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,54,Misiones,1,Homicidios dolosos,53,59.0
+2014,54,Misiones,2,Homicidios dolosos en grado de tentativa,45,45.0
+2014,54,Misiones,3,Muertes en Accidentes Viales,200,228.0
+2014,54,Misiones,10,Violaciones,247,250.0
+2014,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5840,
+2014,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,94,
+2014,54,Misiones,19,Hurtos,9914,
+2014,54,Misiones,31,Suicidios (consumados),74,
+2015,54,Misiones,1,Homicidios dolosos,48,57.0
+2015,54,Misiones,2,Homicidios dolosos en grado de tentativa,39,47.0
+2015,54,Misiones,3,Muertes en Accidentes Viales,187,210.0
+2015,54,Misiones,10,Violaciones,267,277.0
+2015,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5316,
+2015,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,137,
+2015,54,Misiones,19,Hurtos,9090,
+2015,54,Misiones,31,Suicidios (consumados),73,
+2016,54,Misiones,1,Homicidios dolosos,45,45.0
+2016,54,Misiones,2,Homicidios dolosos en grado de tentativa,45,46.0
+2016,54,Misiones,3,Muertes en Accidentes Viales,236,236.0
+2016,54,Misiones,10,Violaciones,253,263.0
+2016,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5756,
+2016,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,160,
+2016,54,Misiones,19,Hurtos,10100,
+2016,54,Misiones,31,Suicidios (consumados),97,
+2017,54,Misiones,1,Homicidios dolosos,52,53.0
+2017,54,Misiones,2,Homicidios dolosos en grado de tentativa,46,55.0
+2017,54,Misiones,3,Muertes en Accidentes Viales,217,257.0
+2017,54,Misiones,10,Violaciones,270,272.0
+2017,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5267,
+2017,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,76,
+2017,54,Misiones,19,Hurtos,8673,
+2017,54,Misiones,31,Suicidios (consumados),80,80.0
+2018,54,Misiones,1,Homicidios dolosos,57,57.0
+2018,54,Misiones,2,Homicidios dolosos en grado de tentativa,42,43.0
+2018,54,Misiones,3,Muertes en Accidentes Viales,226,258.0
+2018,54,Misiones,10,Violaciones,299,307.0
+2018,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5935,
+2018,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,126,
+2018,54,Misiones,19,Hurtos,8663,
+2018,54,Misiones,31,Suicidios (consumados),70,70.0
+2019,54,Misiones,1,Homicidios dolosos,49,52.0
+2019,54,Misiones,2,Homicidios dolosos en grado de tentativa,40,41.0
+2019,54,Misiones,3,Muertes en Accidentes Viales,175,199.0
+2019,54,Misiones,10,Violaciones,383,391.0
+2019,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6620,
+2019,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,217,
+2019,54,Misiones,19,Hurtos,9878,
+2019,54,Misiones,31,Suicidios (consumados),84,84.0
+2020,54,Misiones,1,Homicidios dolosos,57,57.0
+2020,54,Misiones,2,Homicidios dolosos en grado de tentativa,35,37.0
+2020,54,Misiones,3,Muertes en Accidentes Viales,138,149.0
+2020,54,Misiones,10,Violaciones,366,372.0
+2020,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5096,
+2020,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,120,
+2020,54,Misiones,19,Hurtos,8233,
+2020,54,Misiones,31,Suicidios (consumados),120,120.0
+2021,54,Misiones,1,Homicidios dolosos,39,40.0
+2021,54,Misiones,2,Homicidios dolosos en grado de tentativa,39,42.0
+2021,54,Misiones,3,Muertes en Accidentes Viales,195,215.0
+2021,54,Misiones,10,Violaciones,401,411.0
+2021,54,Misiones,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5294,
+2021,54,Misiones,17,Robos agravados por el resultado de lesiones y/o muertes ,132,
+2021,54,Misiones,19,Hurtos,8552,
+2021,54,Misiones,31,Suicidios (consumados),92,92.0

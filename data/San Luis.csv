@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,74,San Luis,1,Homicidios dolosos,22,22.0
+2014,74,San Luis,2,Homicidios dolosos en grado de tentativa,32,32.0
+2014,74,San Luis,3,Muertes en Accidentes Viales,69,78.0
+2014,74,San Luis,10,Violaciones,47,47.0
+2014,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3307,
+2014,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2014,74,San Luis,19,Hurtos,1675,
+2014,74,San Luis,31,Suicidios (consumados),38,
+2015,74,San Luis,1,Homicidios dolosos,25,27.0
+2015,74,San Luis,2,Homicidios dolosos en grado de tentativa,18,19.0
+2015,74,San Luis,3,Muertes en Accidentes Viales,68,75.0
+2015,74,San Luis,10,Violaciones,50,50.0
+2015,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2101,
+2015,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,74,San Luis,19,Hurtos,1567,
+2015,74,San Luis,31,Suicidios (consumados),36,
+2016,74,San Luis,1,Homicidios dolosos,20,21.0
+2016,74,San Luis,2,Homicidios dolosos en grado de tentativa,20,20.0
+2016,74,San Luis,3,Muertes en Accidentes Viales,72,76.0
+2016,74,San Luis,10,Violaciones,41,41.0
+2016,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2299,
+2016,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2016,74,San Luis,19,Hurtos,1651,
+2016,74,San Luis,31,Suicidios (consumados),29,
+2017,74,San Luis,1,Homicidios dolosos,12,12.0
+2017,74,San Luis,2,Homicidios dolosos en grado de tentativa,21,24.0
+2017,74,San Luis,3,Muertes en Accidentes Viales,76,82.0
+2017,74,San Luis,10,Violaciones,54,54.0
+2017,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1986,
+2017,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2017,74,San Luis,19,Hurtos,1345,
+2017,74,San Luis,31,Suicidios (consumados),38,38.0
+2018,74,San Luis,1,Homicidios dolosos,11,11.0
+2018,74,San Luis,2,Homicidios dolosos en grado de tentativa,17,18.0
+2018,74,San Luis,3,Muertes en Accidentes Viales,93,110.0
+2018,74,San Luis,10,Violaciones,44,45.0
+2018,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1682,
+2018,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2018,74,San Luis,19,Hurtos,1353,
+2018,74,San Luis,31,Suicidios (consumados),52,52.0
+2019,74,San Luis,1,Homicidios dolosos,8,9.0
+2019,74,San Luis,2,Homicidios dolosos en grado de tentativa,20,24.0
+2019,74,San Luis,3,Muertes en Accidentes Viales,78,84.0
+2019,74,San Luis,10,Violaciones,65,65.0
+2019,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2068,
+2019,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,102,
+2019,74,San Luis,19,Hurtos,1525,
+2019,74,San Luis,31,Suicidios (consumados),75,75.0
+2020,74,San Luis,1,Homicidios dolosos,13,14.0
+2020,74,San Luis,2,Homicidios dolosos en grado de tentativa,29,30.0
+2020,74,San Luis,3,Muertes en Accidentes Viales,58,64.0
+2020,74,San Luis,10,Violaciones,75,78.0
+2020,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1839,
+2020,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,3,
+2020,74,San Luis,19,Hurtos,1294,
+2020,74,San Luis,31,Suicidios (consumados),62,62.0
+2021,74,San Luis,1,Homicidios dolosos,10,11.0
+2021,74,San Luis,2,Homicidios dolosos en grado de tentativa,21,22.0
+2021,74,San Luis,3,Muertes en Accidentes Viales,64,69.0
+2021,74,San Luis,10,Violaciones,79,81.0
+2021,74,San Luis,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2162,
+2021,74,San Luis,17,Robos agravados por el resultado de lesiones y/o muertes ,3,
+2021,74,San Luis,19,Hurtos,1699,
+2021,74,San Luis,31,Suicidios (consumados),66,66.0

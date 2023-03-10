@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,185,200.0
+2014,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,54,68.0
+2014,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,82,102.0
+2014,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,267,291.0
+2014,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),75685,
+2014,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,166,
+2014,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,48317,
+2014,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),185,
+2015,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,155,165.0
+2015,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,43,53.0
+2015,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,93,111.0
+2015,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,273,299.0
+2015,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),62909,
+2015,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,133,
+2015,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,42410,
+2015,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),166,
+2016,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,145,146.0
+2016,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,73,87.0
+2016,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,135,138.0
+2016,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,260,291.0
+2016,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),71226,
+2016,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,46178,
+2016,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),175,
+2017,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,135,143.0
+2017,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,58,73.0
+2017,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,131,140.0
+2017,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,146,161.0
+2017,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),68219,
+2017,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,78,
+2017,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,42150,
+2017,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),157,157.0
+2018,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,133,137.0
+2018,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,30,33.0
+2018,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,143,149.0
+2018,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,176,184.0
+2018,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),70916,
+2018,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,205,
+2018,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,42274,
+2018,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),123,123.0
+2019,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,96,102.0
+2019,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,64,84.0
+2019,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,102,103.0
+2019,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,404,426.0
+2019,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),62791,
+2019,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,554,
+2019,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,50247,
+2019,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),230,230.0
+2020,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,120,125.0
+2020,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,75,93.0
+2020,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,79,82.0
+2020,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,249,258.0
+2020,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),33671,
+2020,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,1089,
+2020,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,25950,
+2020,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),206,206.0
+2021,2,Ciudad Autónoma de Buenos Aires,1,Homicidios dolosos,99,103.0
+2021,2,Ciudad Autónoma de Buenos Aires,2,Homicidios dolosos en grado de tentativa,79,93.0
+2021,2,Ciudad Autónoma de Buenos Aires,3,Muertes en Accidentes Viales,97,97.0
+2021,2,Ciudad Autónoma de Buenos Aires,10,Violaciones,319,334.0
+2021,2,Ciudad Autónoma de Buenos Aires,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),43810,
+2021,2,Ciudad Autónoma de Buenos Aires,17,Robos agravados por el resultado de lesiones y/o muertes ,1275,
+2021,2,Ciudad Autónoma de Buenos Aires,19,Hurtos,36718,
+2021,2,Ciudad Autónoma de Buenos Aires,31,Suicidios (consumados),236,236.0

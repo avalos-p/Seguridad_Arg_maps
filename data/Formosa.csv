@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,34,Formosa,1,Homicidios dolosos,58,58.0
+2014,34,Formosa,2,Homicidios dolosos en grado de tentativa,50,50.0
+2014,34,Formosa,3,Muertes en Accidentes Viales,57,57.0
+2014,34,Formosa,10,Violaciones,76,76.0
+2014,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3033,
+2014,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,136,
+2014,34,Formosa,19,Hurtos,4317,
+2014,34,Formosa,31,Suicidios (consumados),28,
+2015,34,Formosa,1,Homicidios dolosos,52,55.0
+2015,34,Formosa,2,Homicidios dolosos en grado de tentativa,53,64.0
+2015,34,Formosa,3,Muertes en Accidentes Viales,74,81.0
+2015,34,Formosa,10,Violaciones,42,44.0
+2015,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2992,
+2015,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,34,Formosa,19,Hurtos,3693,
+2015,34,Formosa,31,Suicidios (consumados),32,
+2016,34,Formosa,1,Homicidios dolosos,44,44.0
+2016,34,Formosa,2,Homicidios dolosos en grado de tentativa,65,68.0
+2016,34,Formosa,3,Muertes en Accidentes Viales,60,64.0
+2016,34,Formosa,10,Violaciones,56,57.0
+2016,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3741,
+2016,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2016,34,Formosa,19,Hurtos,3531,
+2016,34,Formosa,31,Suicidios (consumados),35,
+2017,34,Formosa,1,Homicidios dolosos,29,29.0
+2017,34,Formosa,2,Homicidios dolosos en grado de tentativa,37,37.0
+2017,34,Formosa,3,Muertes en Accidentes Viales,105,122.0
+2017,34,Formosa,10,Violaciones,80,80.0
+2017,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3343,
+2017,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2017,34,Formosa,19,Hurtos,3587,
+2017,34,Formosa,31,Suicidios (consumados),60,60.0
+2018,34,Formosa,1,Homicidios dolosos,37,37.0
+2018,34,Formosa,2,Homicidios dolosos en grado de tentativa,53,58.0
+2018,34,Formosa,3,Muertes en Accidentes Viales,120,128.0
+2018,34,Formosa,10,Violaciones,84,88.0
+2018,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),3088,
+2018,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,2,
+2018,34,Formosa,19,Hurtos,4325,
+2018,34,Formosa,31,Suicidios (consumados),65,65.0
+2019,34,Formosa,1,Homicidios dolosos,41,41.0
+2019,34,Formosa,2,Homicidios dolosos en grado de tentativa,59,68.0
+2019,34,Formosa,3,Muertes en Accidentes Viales,82,88.0
+2019,34,Formosa,10,Violaciones,108,116.0
+2019,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2946,
+2019,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,7,
+2019,34,Formosa,19,Hurtos,4846,
+2019,34,Formosa,31,Suicidios (consumados),64,64.0
+2020,34,Formosa,1,Homicidios dolosos,27,28.0
+2020,34,Formosa,2,Homicidios dolosos en grado de tentativa,86,94.0
+2020,34,Formosa,3,Muertes en Accidentes Viales,73,76.0
+2020,34,Formosa,10,Violaciones,114,119.0
+2020,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2116,
+2020,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,2,
+2020,34,Formosa,19,Hurtos,3639,
+2020,34,Formosa,31,Suicidios (consumados),66,66.0
+2021,34,Formosa,1,Homicidios dolosos,43,44.0
+2021,34,Formosa,2,Homicidios dolosos en grado de tentativa,62,69.0
+2021,34,Formosa,3,Muertes en Accidentes Viales,65,69.0
+2021,34,Formosa,10,Violaciones,134,148.0
+2021,34,Formosa,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2307,
+2021,34,Formosa,17,Robos agravados por el resultado de lesiones y/o muertes ,6,
+2021,34,Formosa,19,Hurtos,4237,
+2021,34,Formosa,31,Suicidios (consumados),52,52.0

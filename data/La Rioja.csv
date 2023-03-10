@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,46,La Rioja,1,Homicidios dolosos,8,8.0
+2014,46,La Rioja,2,Homicidios dolosos en grado de tentativa,6,6.0
+2014,46,La Rioja,3,Muertes en Accidentes Viales,0,0.0
+2014,46,La Rioja,10,Violaciones,24,25.0
+2014,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1303,
+2014,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,46,La Rioja,19,Hurtos,2072,
+2014,46,La Rioja,31,Suicidios (consumados),21,
+2015,46,La Rioja,1,Homicidios dolosos,7,7.0
+2015,46,La Rioja,2,Homicidios dolosos en grado de tentativa,8,8.0
+2015,46,La Rioja,3,Muertes en Accidentes Viales,11,12.0
+2015,46,La Rioja,10,Violaciones,27,27.0
+2015,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1533,
+2015,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,46,La Rioja,19,Hurtos,1923,
+2015,46,La Rioja,31,Suicidios (consumados),18,
+2016,46,La Rioja,1,Homicidios dolosos,10,10.0
+2016,46,La Rioja,2,Homicidios dolosos en grado de tentativa,1,1.0
+2016,46,La Rioja,3,Muertes en Accidentes Viales,70,70.0
+2016,46,La Rioja,10,Violaciones,27,31.0
+2016,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1406,
+2016,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,46,La Rioja,19,Hurtos,1751,
+2016,46,La Rioja,31,Suicidios (consumados),22,
+2017,46,La Rioja,1,Homicidios dolosos,6,6.0
+2017,46,La Rioja,2,Homicidios dolosos en grado de tentativa,3,3.0
+2017,46,La Rioja,3,Muertes en Accidentes Viales,71,77.0
+2017,46,La Rioja,10,Violaciones,23,30.0
+2017,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2062,
+2017,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2017,46,La Rioja,19,Hurtos,2104,
+2017,46,La Rioja,31,Suicidios (consumados),13,13.0
+2018,46,La Rioja,1,Homicidios dolosos,10,10.0
+2018,46,La Rioja,2,Homicidios dolosos en grado de tentativa,1,1.0
+2018,46,La Rioja,3,Muertes en Accidentes Viales,80,86.0
+2018,46,La Rioja,10,Violaciones,64,65.0
+2018,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2736,
+2018,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2018,46,La Rioja,19,Hurtos,2445,
+2018,46,La Rioja,31,Suicidios (consumados),47,47.0
+2019,46,La Rioja,1,Homicidios dolosos,8,8.0
+2019,46,La Rioja,2,Homicidios dolosos en grado de tentativa,3,3.0
+2019,46,La Rioja,3,Muertes en Accidentes Viales,59,67.0
+2019,46,La Rioja,10,Violaciones,86,88.0
+2019,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2822,
+2019,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2019,46,La Rioja,19,Hurtos,2716,
+2019,46,La Rioja,31,Suicidios (consumados),49,49.0
+2020,46,La Rioja,1,Homicidios dolosos,4,4.0
+2020,46,La Rioja,2,Homicidios dolosos en grado de tentativa,3,3.0
+2020,46,La Rioja,3,Muertes en Accidentes Viales,47,51.0
+2020,46,La Rioja,10,Violaciones,100,100.0
+2020,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1945,
+2020,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2020,46,La Rioja,19,Hurtos,2555,
+2020,46,La Rioja,31,Suicidios (consumados),45,45.0
+2021,46,La Rioja,1,Homicidios dolosos,5,5.0
+2021,46,La Rioja,2,Homicidios dolosos en grado de tentativa,2,2.0
+2021,46,La Rioja,3,Muertes en Accidentes Viales,51,65.0
+2021,46,La Rioja,10,Violaciones,19,19.0
+2021,46,La Rioja,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1624,
+2021,46,La Rioja,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2021,46,La Rioja,19,Hurtos,2311,
+2021,46,La Rioja,31,Suicidios (consumados),50,50.0

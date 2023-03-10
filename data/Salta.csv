@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,66,Salta,1,Homicidios dolosos,64,65.0
+2014,66,Salta,2,Homicidios dolosos en grado de tentativa,29,29.0
+2014,66,Salta,3,Muertes en Accidentes Viales,218,321.0
+2014,66,Salta,10,Violaciones,318,318.0
+2014,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),19105,
+2014,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,190,
+2014,66,Salta,19,Hurtos,17466,
+2014,66,Salta,31,Suicidios (consumados),198,
+2015,66,Salta,1,Homicidios dolosos,80,85.0
+2015,66,Salta,2,Homicidios dolosos en grado de tentativa,22,22.0
+2015,66,Salta,3,Muertes en Accidentes Viales,266,369.0
+2015,66,Salta,10,Violaciones,366,367.0
+2015,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),18952,
+2015,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,132,
+2015,66,Salta,19,Hurtos,16712,
+2015,66,Salta,31,Suicidios (consumados),168,
+2016,66,Salta,1,Homicidios dolosos,61,61.0
+2016,66,Salta,2,Homicidios dolosos en grado de tentativa,50,50.0
+2016,66,Salta,3,Muertes en Accidentes Viales,182,212.0
+2016,66,Salta,10,Violaciones,250,250.0
+2016,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),17761,
+2016,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,128,
+2016,66,Salta,19,Hurtos,15800,
+2016,66,Salta,31,Suicidios (consumados),140,
+2017,66,Salta,1,Homicidios dolosos,95,96.0
+2017,66,Salta,2,Homicidios dolosos en grado de tentativa,42,42.0
+2017,66,Salta,3,Muertes en Accidentes Viales,184,203.0
+2017,66,Salta,10,Violaciones,290,290.0
+2017,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),16806,
+2017,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,229,
+2017,66,Salta,19,Hurtos,15945,
+2017,66,Salta,31,Suicidios (consumados),191,192.0
+2018,66,Salta,1,Homicidios dolosos,72,73.0
+2018,66,Salta,2,Homicidios dolosos en grado de tentativa,40,40.0
+2018,66,Salta,3,Muertes en Accidentes Viales,109,132.0
+2018,66,Salta,10,Violaciones,272,272.0
+2018,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),17115,
+2018,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,136,
+2018,66,Salta,19,Hurtos,16876,
+2018,66,Salta,31,Suicidios (consumados),160,160.0
+2019,66,Salta,1,Homicidios dolosos,68,68.0
+2019,66,Salta,2,Homicidios dolosos en grado de tentativa,41,41.0
+2019,66,Salta,3,Muertes en Accidentes Viales,150,165.0
+2019,66,Salta,10,Violaciones,446,446.0
+2019,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),18178,
+2019,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,59,
+2019,66,Salta,19,Hurtos,18254,
+2019,66,Salta,31,Suicidios (consumados),168,168.0
+2020,66,Salta,1,Homicidios dolosos,89,89.0
+2020,66,Salta,2,Homicidios dolosos en grado de tentativa,79,79.0
+2020,66,Salta,3,Muertes en Accidentes Viales,128,137.0
+2020,66,Salta,10,Violaciones,328,328.0
+2020,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),15889,
+2020,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,39,
+2020,66,Salta,19,Hurtos,13821,
+2020,66,Salta,31,Suicidios (consumados),195,195.0
+2021,66,Salta,1,Homicidios dolosos,61,63.0
+2021,66,Salta,2,Homicidios dolosos en grado de tentativa,67,67.0
+2021,66,Salta,3,Muertes en Accidentes Viales,164,187.0
+2021,66,Salta,10,Violaciones,336,336.0
+2021,66,Salta,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),18025,
+2021,66,Salta,17,Robos agravados por el resultado de lesiones y/o muertes ,24,
+2021,66,Salta,19,Hurtos,17319,
+2021,66,Salta,31,Suicidios (consumados),178,178.0

@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,38,Jujuy,1,Homicidios dolosos,27,27.0
+2014,38,Jujuy,2,Homicidios dolosos en grado de tentativa,23,25.0
+2014,38,Jujuy,3,Muertes en Accidentes Viales,96,105.0
+2014,38,Jujuy,10,Violaciones,121,132.0
+2014,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),9176,
+2014,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,212,
+2014,38,Jujuy,19,Hurtos,5371,
+2014,38,Jujuy,31,Suicidios (consumados),26,
+2015,38,Jujuy,1,Homicidios dolosos,37,38.0
+2015,38,Jujuy,2,Homicidios dolosos en grado de tentativa,25,26.0
+2015,38,Jujuy,3,Muertes en Accidentes Viales,88,102.0
+2015,38,Jujuy,10,Violaciones,112,121.0
+2015,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),8231,
+2015,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,45,
+2015,38,Jujuy,19,Hurtos,5266,
+2015,38,Jujuy,31,Suicidios (consumados),27,
+2016,38,Jujuy,1,Homicidios dolosos,38,38.0
+2016,38,Jujuy,2,Homicidios dolosos en grado de tentativa,9,10.0
+2016,38,Jujuy,3,Muertes en Accidentes Viales,91,110.0
+2016,38,Jujuy,10,Violaciones,80,80.0
+2016,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7763,
+2016,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,124,
+2016,38,Jujuy,19,Hurtos,5796,
+2016,38,Jujuy,31,Suicidios (consumados),84,
+2017,38,Jujuy,1,Homicidios dolosos,22,26.0
+2017,38,Jujuy,2,Homicidios dolosos en grado de tentativa,12,13.0
+2017,38,Jujuy,3,Muertes en Accidentes Viales,75,90.0
+2017,38,Jujuy,10,Violaciones,104,105.0
+2017,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7361,
+2017,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,49,
+2017,38,Jujuy,19,Hurtos,4745,
+2017,38,Jujuy,31,Suicidios (consumados),38,38.0
+2018,38,Jujuy,1,Homicidios dolosos,19,19.0
+2018,38,Jujuy,2,Homicidios dolosos en grado de tentativa,8,8.0
+2018,38,Jujuy,3,Muertes en Accidentes Viales,58,63.0
+2018,38,Jujuy,10,Violaciones,153,154.0
+2018,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6477,
+2018,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,48,
+2018,38,Jujuy,19,Hurtos,4712,
+2018,38,Jujuy,31,Suicidios (consumados),28,28.0
+2019,38,Jujuy,1,Homicidios dolosos,22,22.0
+2019,38,Jujuy,2,Homicidios dolosos en grado de tentativa,8,8.0
+2019,38,Jujuy,3,Muertes en Accidentes Viales,66,74.0
+2019,38,Jujuy,10,Violaciones,253,257.0
+2019,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6443,
+2019,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,374,
+2019,38,Jujuy,19,Hurtos,5541,
+2019,38,Jujuy,31,Suicidios (consumados),77,77.0
+2020,38,Jujuy,1,Homicidios dolosos,35,36.0
+2020,38,Jujuy,2,Homicidios dolosos en grado de tentativa,3,3.0
+2020,38,Jujuy,3,Muertes en Accidentes Viales,53,60.0
+2020,38,Jujuy,10,Violaciones,213,216.0
+2020,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4418,
+2020,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,320,
+2020,38,Jujuy,19,Hurtos,4642,
+2020,38,Jujuy,31,Suicidios (consumados),65,65.0
+2021,38,Jujuy,1,Homicidios dolosos,25,25.0
+2021,38,Jujuy,2,Homicidios dolosos en grado de tentativa,13,13.0
+2021,38,Jujuy,3,Muertes en Accidentes Viales,85,109.0
+2021,38,Jujuy,10,Violaciones,175,175.0
+2021,38,Jujuy,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4926,
+2021,38,Jujuy,17,Robos agravados por el resultado de lesiones y/o muertes ,458,
+2021,38,Jujuy,19,Hurtos,5518,
+2021,38,Jujuy,31,Suicidios (consumados),52,52.0

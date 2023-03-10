@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,30,Entre Ríos,1,Homicidios dolosos,80,80.0
+2014,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,77,77.0
+2014,30,Entre Ríos,3,Muertes en Accidentes Viales,295,322.0
+2014,30,Entre Ríos,10,Violaciones,39,41.0
+2014,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6436,
+2014,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,30,Entre Ríos,19,Hurtos,5249,
+2014,30,Entre Ríos,31,Suicidios (consumados),168,
+2015,30,Entre Ríos,1,Homicidios dolosos,63,63.0
+2015,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,77,77.0
+2015,30,Entre Ríos,3,Muertes en Accidentes Viales,187,223.0
+2015,30,Entre Ríos,10,Violaciones,44,44.0
+2015,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6681,
+2015,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,30,Entre Ríos,19,Hurtos,5421,
+2015,30,Entre Ríos,31,Suicidios (consumados),154,
+2016,30,Entre Ríos,1,Homicidios dolosos,58,58.0
+2016,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,41,41.0
+2016,30,Entre Ríos,3,Muertes en Accidentes Viales,176,181.0
+2016,30,Entre Ríos,10,Violaciones,75,75.0
+2016,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6127,
+2016,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2016,30,Entre Ríos,19,Hurtos,6037,
+2016,30,Entre Ríos,31,Suicidios (consumados),200,
+2017,30,Entre Ríos,1,Homicidios dolosos,47,49.0
+2017,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,43,43.0
+2017,30,Entre Ríos,3,Muertes en Accidentes Viales,162,183.0
+2017,30,Entre Ríos,10,Violaciones,53,53.0
+2017,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7135,
+2017,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,10,
+2017,30,Entre Ríos,19,Hurtos,7082,
+2017,30,Entre Ríos,31,Suicidios (consumados),159,159.0
+2018,30,Entre Ríos,1,Homicidios dolosos,69,78.0
+2018,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,26,26.0
+2018,30,Entre Ríos,3,Muertes en Accidentes Viales,158,192.0
+2018,30,Entre Ríos,10,Violaciones,46,46.0
+2018,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),8727,
+2018,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,139,
+2018,30,Entre Ríos,19,Hurtos,9008,
+2018,30,Entre Ríos,31,Suicidios (consumados),234,234.0
+2019,30,Entre Ríos,1,Homicidios dolosos,63,66.0
+2019,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,28,28.0
+2019,30,Entre Ríos,3,Muertes en Accidentes Viales,114,139.0
+2019,30,Entre Ríos,10,Violaciones,82,85.0
+2019,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),9328,
+2019,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,81,
+2019,30,Entre Ríos,19,Hurtos,9309,
+2019,30,Entre Ríos,31,Suicidios (consumados),252,252.0
+2020,30,Entre Ríos,1,Homicidios dolosos,48,50.0
+2020,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,49,51.0
+2020,30,Entre Ríos,3,Muertes en Accidentes Viales,63,71.0
+2020,30,Entre Ríos,10,Violaciones,52,57.0
+2020,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6779,
+2020,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,69,
+2020,30,Entre Ríos,19,Hurtos,6964,
+2020,30,Entre Ríos,31,Suicidios (consumados),198,198.0
+2021,30,Entre Ríos,1,Homicidios dolosos,47,47.0
+2021,30,Entre Ríos,2,Homicidios dolosos en grado de tentativa,26,28.0
+2021,30,Entre Ríos,3,Muertes en Accidentes Viales,130,147.0
+2021,30,Entre Ríos,10,Violaciones,58,58.0
+2021,30,Entre Ríos,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),6618,
+2021,30,Entre Ríos,17,Robos agravados por el resultado de lesiones y/o muertes ,128,
+2021,30,Entre Ríos,19,Hurtos,7841,
+2021,30,Entre Ríos,31,Suicidios (consumados),216,216.0

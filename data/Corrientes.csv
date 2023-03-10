@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,18,Corrientes,1,Homicidios dolosos,21,21.0
+2014,18,Corrientes,2,Homicidios dolosos en grado de tentativa,33,35.0
+2014,18,Corrientes,3,Muertes en Accidentes Viales,115,166.0
+2014,18,Corrientes,10,Violaciones,118,156.0
+2014,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),7136,
+2014,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,18,Corrientes,19,Hurtos,2797,
+2014,18,Corrientes,31,Suicidios (consumados),57,
+2015,18,Corrientes,1,Homicidios dolosos,31,34.0
+2015,18,Corrientes,2,Homicidios dolosos en grado de tentativa,54,63.0
+2015,18,Corrientes,3,Muertes en Accidentes Viales,86,107.0
+2015,18,Corrientes,10,Violaciones,123,201.0
+2015,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5517,
+2015,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2015,18,Corrientes,19,Hurtos,2959,
+2015,18,Corrientes,31,Suicidios (consumados),76,
+2016,18,Corrientes,1,Homicidios dolosos,15,15.0
+2016,18,Corrientes,2,Homicidios dolosos en grado de tentativa,41,44.0
+2016,18,Corrientes,3,Muertes en Accidentes Viales,80,104.0
+2016,18,Corrientes,10,Violaciones,122,154.0
+2016,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5799,
+2016,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2016,18,Corrientes,19,Hurtos,2467,
+2016,18,Corrientes,31,Suicidios (consumados),43,
+2017,18,Corrientes,1,Homicidios dolosos,24,24.0
+2017,18,Corrientes,2,Homicidios dolosos en grado de tentativa,52,60.0
+2017,18,Corrientes,3,Muertes en Accidentes Viales,40,46.0
+2017,18,Corrientes,10,Violaciones,100,136.0
+2017,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5414,
+2017,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,1,
+2017,18,Corrientes,19,Hurtos,2536,
+2017,18,Corrientes,31,Suicidios (consumados),48,48.0
+2018,18,Corrientes,1,Homicidios dolosos,27,28.0
+2018,18,Corrientes,2,Homicidios dolosos en grado de tentativa,21,22.0
+2018,18,Corrientes,3,Muertes en Accidentes Viales,78,100.0
+2018,18,Corrientes,10,Violaciones,67,79.0
+2018,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5614,
+2018,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,22,
+2018,18,Corrientes,19,Hurtos,2753,
+2018,18,Corrientes,31,Suicidios (consumados),83,83.0
+2019,18,Corrientes,1,Homicidios dolosos,48,50.0
+2019,18,Corrientes,2,Homicidios dolosos en grado de tentativa,10,10.0
+2019,18,Corrientes,3,Muertes en Accidentes Viales,141,159.0
+2019,18,Corrientes,10,Violaciones,60,60.0
+2019,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5376,
+2019,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,73,
+2019,18,Corrientes,19,Hurtos,3482,
+2019,18,Corrientes,31,Suicidios (consumados),119,119.0
+2020,18,Corrientes,1,Homicidios dolosos,38,40.0
+2020,18,Corrientes,2,Homicidios dolosos en grado de tentativa,6,8.0
+2020,18,Corrientes,3,Muertes en Accidentes Viales,39,45.0
+2020,18,Corrientes,10,Violaciones,143,143.0
+2020,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),4598,
+2020,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,79,
+2020,18,Corrientes,19,Hurtos,3045,
+2020,18,Corrientes,31,Suicidios (consumados),36,36.0
+2021,18,Corrientes,1,Homicidios dolosos,44,46.0
+2021,18,Corrientes,2,Homicidios dolosos en grado de tentativa,14,14.0
+2021,18,Corrientes,3,Muertes en Accidentes Viales,95,103.0
+2021,18,Corrientes,10,Violaciones,166,166.0
+2021,18,Corrientes,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),5734,
+2021,18,Corrientes,17,Robos agravados por el resultado de lesiones y/o muertes ,33,
+2021,18,Corrientes,19,Hurtos,3721,
+2021,18,Corrientes,31,Suicidios (consumados),71,71.0

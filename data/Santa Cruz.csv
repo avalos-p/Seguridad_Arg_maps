@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,78,Santa Cruz,1,Homicidios dolosos,10,10.0
+2014,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,30,30.0
+2014,78,Santa Cruz,3,Muertes en Accidentes Viales,39,39.0
+2014,78,Santa Cruz,10,Violaciones,7,7.0
+2014,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2427,
+2014,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2014,78,Santa Cruz,19,Hurtos,2083,
+2014,78,Santa Cruz,31,Suicidios (consumados),29,
+2015,78,Santa Cruz,1,Homicidios dolosos,16,16.0
+2015,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,20,20.0
+2015,78,Santa Cruz,3,Muertes en Accidentes Viales,39,41.0
+2015,78,Santa Cruz,10,Violaciones,30,30.0
+2015,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2326,
+2015,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,0,
+2015,78,Santa Cruz,19,Hurtos,1857,
+2015,78,Santa Cruz,31,Suicidios (consumados),18,
+2016,78,Santa Cruz,1,Homicidios dolosos,18,18.0
+2016,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,28,29.0
+2016,78,Santa Cruz,3,Muertes en Accidentes Viales,38,44.0
+2016,78,Santa Cruz,10,Violaciones,34,36.0
+2016,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2574,
+2016,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,19,
+2016,78,Santa Cruz,19,Hurtos,2041,
+2016,78,Santa Cruz,31,Suicidios (consumados),38,
+2017,78,Santa Cruz,1,Homicidios dolosos,12,12.0
+2017,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,15,16.0
+2017,78,Santa Cruz,3,Muertes en Accidentes Viales,40,48.0
+2017,78,Santa Cruz,10,Violaciones,36,36.0
+2017,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2449,
+2017,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,27,
+2017,78,Santa Cruz,19,Hurtos,1774,
+2017,78,Santa Cruz,31,Suicidios (consumados),41,41.0
+2018,78,Santa Cruz,1,Homicidios dolosos,11,11.0
+2018,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,20,22.0
+2018,78,Santa Cruz,3,Muertes en Accidentes Viales,24,28.0
+2018,78,Santa Cruz,10,Violaciones,43,43.0
+2018,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2444,
+2018,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,60,
+2018,78,Santa Cruz,19,Hurtos,1914,
+2018,78,Santa Cruz,31,Suicidios (consumados),39,39.0
+2019,78,Santa Cruz,1,Homicidios dolosos,16,16.0
+2019,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,22,26.0
+2019,78,Santa Cruz,3,Muertes en Accidentes Viales,23,32.0
+2019,78,Santa Cruz,10,Violaciones,80,86.0
+2019,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),2550,
+2019,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,63,
+2019,78,Santa Cruz,19,Hurtos,2264,
+2019,78,Santa Cruz,31,Suicidios (consumados),39,39.0
+2020,78,Santa Cruz,1,Homicidios dolosos,15,22.0
+2020,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,11,12.0
+2020,78,Santa Cruz,3,Muertes en Accidentes Viales,8,8.0
+2020,78,Santa Cruz,10,Violaciones,62,62.0
+2020,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1903,
+2020,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,40,
+2020,78,Santa Cruz,19,Hurtos,1842,
+2020,78,Santa Cruz,31,Suicidios (consumados),33,33.0
+2021,78,Santa Cruz,1,Homicidios dolosos,12,12.0
+2021,78,Santa Cruz,2,Homicidios dolosos en grado de tentativa,10,11.0
+2021,78,Santa Cruz,3,Muertes en Accidentes Viales,21,22.0
+2021,78,Santa Cruz,10,Violaciones,89,92.0
+2021,78,Santa Cruz,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),1962,
+2021,78,Santa Cruz,17,Robos agravados por el resultado de lesiones y/o muertes ,31,
+2021,78,Santa Cruz,19,Hurtos,2141,
+2021,78,Santa Cruz,31,Suicidios (consumados),50,50.0

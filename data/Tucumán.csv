@@ -1,0 +1,65 @@
+anio,provincia_id,provincia_nombre,codigo_delito_snic_id,codigo_delito_snic_nombre,cantidad_hechos,cantidad_victimas
+2014,90,Tucumán,1,Homicidios dolosos,109,112.0
+2014,90,Tucumán,2,Homicidios dolosos en grado de tentativa,185,185.0
+2014,90,Tucumán,3,Muertes en Accidentes Viales,221,280.0
+2014,90,Tucumán,10,Violaciones,129,129.0
+2014,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),14523,
+2014,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,876,
+2014,90,Tucumán,19,Hurtos,5427,
+2014,90,Tucumán,31,Suicidios (consumados),137,
+2015,90,Tucumán,1,Homicidios dolosos,81,86.0
+2015,90,Tucumán,2,Homicidios dolosos en grado de tentativa,131,141.0
+2015,90,Tucumán,3,Muertes en Accidentes Viales,260,288.0
+2015,90,Tucumán,10,Violaciones,148,150.0
+2015,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),13365,
+2015,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,2122,
+2015,90,Tucumán,19,Hurtos,5554,
+2015,90,Tucumán,31,Suicidios (consumados),117,
+2016,90,Tucumán,1,Homicidios dolosos,89,92.0
+2016,90,Tucumán,2,Homicidios dolosos en grado de tentativa,128,131.0
+2016,90,Tucumán,3,Muertes en Accidentes Viales,216,244.0
+2016,90,Tucumán,10,Violaciones,129,129.0
+2016,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),14479,
+2016,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,2168,
+2016,90,Tucumán,19,Hurtos,5759,
+2016,90,Tucumán,31,Suicidios (consumados),115,
+2017,90,Tucumán,1,Homicidios dolosos,116,118.0
+2017,90,Tucumán,2,Homicidios dolosos en grado de tentativa,53,57.0
+2017,90,Tucumán,3,Muertes en Accidentes Viales,305,326.0
+2017,90,Tucumán,10,Violaciones,169,171.0
+2017,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),14775,
+2017,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,3567,
+2017,90,Tucumán,19,Hurtos,6612,
+2017,90,Tucumán,31,Suicidios (consumados),93,93.0
+2018,90,Tucumán,1,Homicidios dolosos,128,135.0
+2018,90,Tucumán,2,Homicidios dolosos en grado de tentativa,109,117.0
+2018,90,Tucumán,3,Muertes en Accidentes Viales,274,300.0
+2018,90,Tucumán,10,Violaciones,205,208.0
+2018,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),14432,
+2018,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,3292,
+2018,90,Tucumán,19,Hurtos,6529,
+2018,90,Tucumán,31,Suicidios (consumados),116,116.0
+2019,90,Tucumán,1,Homicidios dolosos,141,141.0
+2019,90,Tucumán,2,Homicidios dolosos en grado de tentativa,109,112.0
+2019,90,Tucumán,3,Muertes en Accidentes Viales,284,323.0
+2019,90,Tucumán,10,Violaciones,270,273.0
+2019,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),16134,
+2019,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,2502,
+2019,90,Tucumán,19,Hurtos,7183,
+2019,90,Tucumán,31,Suicidios (consumados),120,120.0
+2020,90,Tucumán,1,Homicidios dolosos,147,152.0
+2020,90,Tucumán,2,Homicidios dolosos en grado de tentativa,85,88.0
+2020,90,Tucumán,3,Muertes en Accidentes Viales,208,227.0
+2020,90,Tucumán,10,Violaciones,230,230.0
+2020,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),15091,
+2020,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,30,
+2020,90,Tucumán,19,Hurtos,5740,
+2020,90,Tucumán,31,Suicidios (consumados),125,126.0
+2021,90,Tucumán,1,Homicidios dolosos,103,105.0
+2021,90,Tucumán,2,Homicidios dolosos en grado de tentativa,30,31.0
+2021,90,Tucumán,3,Muertes en Accidentes Viales,216,243.0
+2021,90,Tucumán,10,Violaciones,263,264.0
+2021,90,Tucumán,15,Robos (excluye los agravados por el resultado de lesiones y/o muertes),16272,
+2021,90,Tucumán,17,Robos agravados por el resultado de lesiones y/o muertes ,26,
+2021,90,Tucumán,19,Hurtos,6478,
+2021,90,Tucumán,31,Suicidios (consumados),172,172.0
