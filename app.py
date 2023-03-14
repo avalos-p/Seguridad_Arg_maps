@@ -59,6 +59,46 @@ def filtrado_provincial(filtrado_general,provincia):
     return tabla_filtrada
 
 
+def ranking_h(tabla_general,año):
+    filtro_año = [año]
+    filtro_delito_id = [1]
+    tabla_filtrada = tabla_general.loc[tabla_general['anio'].isin(filtro_año),
+    ['anio','provincia_id','provincia_nombre','codigo_delito_snic_id','codigo_delito_snic_nombre','cantidad_hechos','cantidad_victimas']]
+    tabla_filtrada = tabla_filtrada.loc[tabla_filtrada['codigo_delito_snic_id'].isin(filtro_delito_id),
+    ['anio','provincia_id','provincia_nombre','codigo_delito_snic_id','codigo_delito_snic_nombre','cantidad_hechos','cantidad_victimas']]
+    
+    
+    
+    tabla_filtrada = tabla_filtrada.groupby('provincia_nombre')['cantidad_hechos'].sum()
+    tabla_filtrada = tabla_filtrada.sort_values(ascending=False)
+    tabla_filtrada = pd.DataFrame({'provincia_nombre': tabla_filtrada.index, 'cantidad_hechos': tabla_filtrada.values})
+
+    tabla_filtrada.to_csv('data/ranking_h.csv', index=False)
+
+    logger.info('Tabla ranking_h creada')
+
+    return tabla_filtrada
+
+def ranking_r(tabla_general,año):
+
+    filtro_año = [año]
+    filtro_delito_id = [15,17,19]
+    tabla_filtrada = tabla_general.loc[tabla_general['anio'].isin(filtro_año),
+    ['anio','provincia_id','provincia_nombre','codigo_delito_snic_id','codigo_delito_snic_nombre','cantidad_hechos','cantidad_victimas']]
+    tabla_filtrada = tabla_filtrada.loc[tabla_filtrada['codigo_delito_snic_id'].isin(filtro_delito_id),
+    ['provincia_nombre','cantidad_hechos']]
+    
+
+    tabla_filtrada = tabla_filtrada.groupby('provincia_nombre')['cantidad_hechos'].sum()
+    tabla_filtrada = tabla_filtrada.sort_values(ascending=False)
+    tabla_filtrada = pd.DataFrame({'provincia_nombre': tabla_filtrada.index, 'cantidad_hechos': tabla_filtrada.values})
+
+    tabla_filtrada.to_csv('data/ranking_rob.csv', index=False)
+    logger.info(f'Tabla ranking_rob creada')
+
+    return tabla_filtrada
+
+
 
 df = downloader(link)
 
@@ -69,6 +109,8 @@ nombres = df['provincia_nombre'].value_counts()
 nombres = nombres.index.str.strip().tolist()
 tabla_general=filtrado_general(df)
 
-
 for provincia in nombres:
     filtrado_provincial(tabla_general,provincia)
+
+ranking_h(tabla_general,2021)
+ranking_r(tabla_general,2021)
