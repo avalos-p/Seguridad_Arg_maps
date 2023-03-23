@@ -1,25 +1,25 @@
-provincia_nombre,cantidad_hechos
-Buenos Aires,813
-Santa Fe,336
-Tucumán,103
-Ciudad Autónoma de Buenos Aires,99
-Córdoba,87
-Mendoza,81
-Chaco,61
-Salta,61
-Entre Ríos,47
-Corrientes,44
-Formosa,43
-Neuquén,42
-Misiones,39
-Santiago del Estero,30
-Chubut,29
-Río Negro,26
-Jujuy,25
-San Juan,12
-Santa Cruz,12
-San Luis,10
-Catamarca,6
-La Rioja,5
-La Pampa,5
-"Tierra del Fuego, Antártida e Islas del Atlántico Sur",3
+provincia_nombre,poblacion,cantidad_hechos,tasa_de_homicidios_por_población
+Ciudad Autónoma de Buenos Aires,3075646,99,3.2188359778726163e-05
+Buenos Aires,17541141,813,4.634818225336653e-05
+Catamarca,415438,6,1.4442588304391991e-05
+Chaco,1204541,61,5.064169671268973e-05
+Chubut,618994,29,4.685021179526781e-05
+Córdoba,3760450,87,2.3135528992540786e-05
+Corrientes,1120801,44,3.925763806420587e-05
+Entre Ríos,1385961,47,3.3911488129896876e-05
+Formosa,605193,43,7.105171408129307e-05
+Jujuy,770881,25,3.243042700494629e-05
+La Pampa,358428,5,1.3949803028781234e-05
+La Rioja,393531,5,1.2705479365030963e-05
+Mendoza,1990338,81,4.0696605300205295e-05
+Misiones,1261294,39,3.0920625960323284e-05
+Neuquén,664057,42,6.32475826623317e-05
+Río Negro,747610,26,3.477749093778842e-05
+Salta,1424397,61,4.282513933966443e-05
+San Juan,781217,12,1.536064883380674e-05
+San Luis,508328,10,1.9672337545836545e-05
+Santa Cruz,365698,12,3.281396124671177e-05
+Santa Fe,3536418,336,9.5011392883986e-05
+Santiago del Estero,978313,30,3.0665032561153743e-05
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",173432,3,1.729784584159786e-05
+Tucumán,1694656,103,6.077929680123872e-05

@@ -73,7 +73,7 @@ def ranking_h(tabla_general,año):
     tabla_filtrada = tabla_filtrada.sort_values(ascending=False)
     tabla_filtrada = pd.DataFrame({'provincia_nombre': tabla_filtrada.index, 'cantidad_hechos': tabla_filtrada.values})
 
-    tabla_filtrada.to_csv('data/ranking_h.csv', index=False)
+    #tabla_filtrada.to_csv('data/ranking_h.csv', index=False)
 
     logger.info('Tabla ranking_h creada')
 
@@ -93,7 +93,7 @@ def ranking_r(tabla_general,año):
     tabla_filtrada = tabla_filtrada.sort_values(ascending=False)
     tabla_filtrada = pd.DataFrame({'provincia_nombre': tabla_filtrada.index, 'cantidad_hechos': tabla_filtrada.values})
 
-    tabla_filtrada.to_csv('data/ranking_rob.csv', index=False)
+    #tabla_filtrada.to_csv('data/ranking_rob.csv', index=False)
     logger.info(f'Tabla ranking_rob creada')
 
     return tabla_filtrada
@@ -105,6 +105,11 @@ df = downloader(link)
 df=pd.read_csv('raw_data/datos_seguridad.csv')
 df['codigo_delito_snic_id'] = df['codigo_delito_snic_id'].astype(int)
 
+
+poblacion = pd.read_csv('raw_data/poblacion.csv')
+poblacion['poblacion'] = poblacion['poblacion'].str.replace('.', '')
+poblacion['poblacion'] = poblacion['poblacion'].astype(int)
+
 nombres = df['provincia_nombre'].value_counts()
 nombres = nombres.index.str.strip().tolist()
 tabla_general=filtrado_general(df)
@@ -112,5 +117,12 @@ tabla_general=filtrado_general(df)
 for provincia in nombres:
     filtrado_provincial(tabla_general,provincia)
 
-ranking_h(tabla_general,2021)
-ranking_r(tabla_general,2021)
+ranking_h = ranking_h(tabla_general,2021)
+tasa_h = pd.merge(poblacion, ranking_h, on="provincia_nombre")
+tasa_h["tasa_de_homicidios_por_población"] = tasa_h["cantidad_hechos"] / tasa_h["poblacion"]
+tasa_h.to_csv('data/ranking_h.csv', index=False)
+
+ranking_r = ranking_r(tabla_general,2021)
+tasa_r = pd.merge(poblacion, ranking_r, on="provincia_nombre")
+tasa_r["tasa_de_robos_por_población"] = tasa_r["cantidad_hechos"] / tasa_r["poblacion"]
+tasa_r.to_csv('data/ranking_rob.csv', index=False)
