@@ -1,31 +1,32 @@
    h1 {
-        font-size: 50px;
+        font-size: 40px;
         z-index: 1;
-        background-color: beige;
-        color:coral;
+        background-color: lightblue;
+        color:black;
         text-align: center;
     }
     h3 {
-        font-size: 20px;
+        font-size: 15px;
         z-index: 1;
-        background-color:beige;
-        color:coral;
+        background-color:lightblue;
+        color:black;
         text-align: center;
     }
    body {
         font-size: 20px;
         z-index: 0;
-        background-color:beige;
-        color:black
+        background-color:lightblue;
+        color:black;
+        e
     }
     p {
         font-style: arial;
-        font-size: 20px;
+        font-size: 15px;
         z-index: auto;
         color:black
     }
     h4 {
-        font-size: 30px;
+        font-size: 25px;
         z-index: auto;
         color:black
     }
