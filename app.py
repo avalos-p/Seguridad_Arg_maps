@@ -1,3 +1,4 @@
+#Importing libreries and modules
 from functions.logger_sec import logger_project
 import requests
 import os
@@ -5,9 +6,10 @@ import os
 import pandas as pd
 from decouple import config
 
-# Variables
+#Variables
 link = config("url")
 print(link)
+#Creating a logger instance for the project 
 logger=logger_project('pryecto_seguridad')
 
 def downloader(link):
@@ -27,10 +29,9 @@ def downloader(link):
 
     return
 
-
+#Creating a table with just important data, in this case just by selected crimes data 
 def filtrado_general(df):
 
-    #Creo una tabla general filtrada por los crimenes que seleccionamos para analizar
 
     filtro = [1,2,3,10,15,17,19,31]
     df['codigo_delito_snic_id'] = df['codigo_delito_snic_id'].astype(int)
@@ -45,9 +46,9 @@ def filtrado_general(df):
     return tabla_filtrada
 
 
+#Creating a df with each province
 def filtrado_provincial(filtrado_general,provincia):
 
-    #Creo una tabla para cada provincia
     filtro = [provincia]
     tabla_filtrada = filtrado_general.loc[filtrado_general['provincia_nombre'].isin(filtro),
     ['anio','provincia_id','provincia_nombre','codigo_delito_snic_id','codigo_delito_snic_nombre','cantidad_hechos','cantidad_victimas']]
@@ -58,7 +59,7 @@ def filtrado_provincial(filtrado_general,provincia):
 
     return tabla_filtrada
 
-
+#Creating a df with ranking H
 def ranking_h(tabla_general,año):
     filtro_año = [año]
     filtro_delito_id = [1]
@@ -73,12 +74,12 @@ def ranking_h(tabla_general,año):
     tabla_filtrada = tabla_filtrada.sort_values(ascending=False)
     tabla_filtrada = pd.DataFrame({'provincia_nombre': tabla_filtrada.index, 'cantidad_hechos': tabla_filtrada.values})
 
-    #tabla_filtrada.to_csv('data/ranking_h.csv', index=False)
 
     logger.info('Tabla ranking_h creada')
 
     return tabla_filtrada
 
+#Creating a df with ranking R
 def ranking_r(tabla_general,año):
 
     filtro_año = [año]
