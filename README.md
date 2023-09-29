@@ -1,6 +1,7 @@
 # Análisis de inseguridad en la República Argentina
 
-Este proyecto es un análisis descriptivo de los casos denunciados de robos y homicidios en Argentina.
+Este proyecto es un análisis descriptivo de los casos denunciados de robos y homicidios en Argentina. 
+ Para ver rapidamente los resultados ver el archivo Proyecto.ipynb
 
 ## Datos
 
