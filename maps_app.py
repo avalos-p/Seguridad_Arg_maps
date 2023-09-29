@@ -17,19 +17,30 @@ logger.info('GeoJson and CSV files working')
 data_h = raw_data_h[['provincia_nombre', 'tasa_de_homicidios_por_población']]
 data_rob = raw_data_rob[['provincia_nombre', 'tasa_de_robos_por_población']]
 
+# Reemplazar valores en data_h
+data_h['provincia_nombre'] = data_h['provincia_nombre'].replace('Tierra del Fuego, Antártida e Islas del Atlántico Sur', 'Tierra del Fuego')
+data_h['provincia_nombre'] = data_h['provincia_nombre'].replace('Ciudad Autónoma de Buenos Aires', 'Capital Federal')
+
+# Reemplazar valores en data_rob
+data_rob['provincia_nombre'] = data_rob['provincia_nombre'].replace('Tierra del Fuego, Antártida e Islas del Atlántico Sur', 'Tierra del Fuego')
+data_rob['provincia_nombre'] = data_rob['provincia_nombre'].replace('Ciudad Autónoma de Buenos Aires', 'Capital Federal')
+
 #Replacing certain values in the geojson data
-geojson_data = geojson_data.replace("Tierra del Fuego","Tierra del Fuego, Antártida e Islas del Atlántico Sur")
-geojson_data = geojson_data.replace("Capital Federal","Ciudad Autónoma de Buenos Aires")
+#geojson_data = geojson_data.replace("Tierra del Fuego","Tierra del Fuego, Antártida e Islas del Atlántico Sur")
+#geojson_data = geojson_data.replace("Capital Federal","Ciudad Autónoma de Buenos Aires")
 
 #Creating folium maps
-h = folium.Map(location=[-38.4161, -63.6167], zoom_start=4)
-r = folium.Map(location=[-38.4161, -63.6167], zoom_start=4)
-
+#h = folium.Map(location=[-38.4161, -63.6167], zoom_start=4)
+#r = folium.Map(location=[-38.4161, -63.6167], zoom_start=4)
+h = folium.Map(location=[-38.4161, -63.6167], zoom_start=4, tiles='Stamen Terrain',
+                title='Mapa de Homicidios en la República Argentina')
+r = folium.Map(location=[-38.4161, -63.6167], zoom_start=4, tiles='Stamen Terrain',
+                title='Mapa de Robos en la República Argentina')
 #Defining a function to create the choropleth maps for homicides and robberies
 def map_maker(h,geo_data,data,var):
 
     #Color selector
-    col = 'PuBu' 
+    col = 'YlGnBu' 
     #col = 'PuBuGn'
 
     folium.Choropleth(
@@ -45,6 +56,7 @@ def map_maker(h,geo_data,data,var):
     ).add_to(h)
 
     folium.LayerControl().add_to(h)
+
 
     logger.info(f'{var} MAP created')
 

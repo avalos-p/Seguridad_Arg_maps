@@ -106,10 +106,11 @@ df = downloader(link)
 df=pd.read_csv('raw_data/datos_seguridad.csv')
 df['codigo_delito_snic_id'] = df['codigo_delito_snic_id'].astype(int)
 
-
+# reading population data
 poblacion = pd.read_csv('raw_data/poblacion.csv')
 poblacion['poblacion'] = poblacion['poblacion'].str.replace('.', '')
 poblacion['poblacion'] = poblacion['poblacion'].astype(int)
+poblacion['poblacion'] = poblacion['poblacion']/100000
 
 nombres = df['provincia_nombre'].value_counts()
 nombres = nombres.index.str.strip().tolist()
